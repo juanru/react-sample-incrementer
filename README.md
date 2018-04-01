@@ -31,8 +31,9 @@ The build is minified and the filenames include the hashes.
 
 ## Demo
 
-![React Sample - Button Incrementer](http://i.imgur.com/7CIAWpB.gif)
+![React Sample - Button Incrementer](https://raw.githubusercontent.com/juanru/react-sample-incrementer/master/public/img/demo-incrementer.gif)
 
 ## Sending Feedback
 
-I am always open to [your feedback](jrubio.iradi@gmail.com)
+I am always open to your feedback. Just drop me a line to:
+`jrubio.iradi @ gmail.com`
